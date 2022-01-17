@@ -408,7 +408,7 @@
         </div>
       </div>
       <div class="border-top">
-        <h6 class="text-center mt-3">Copyright ©2021 Abhishek Banarase
+        <h6 class="text-center mt-3">Copyright ©2021 sagar 
         </h6>
       </div>
     </footer>
